@@ -2,27 +2,33 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Task 1",
+      "text": "Shopping",
       "day": "Monday",
       "reminder": true
     },
     {
       "id": 2,
-      "text": "Task 2",
+      "text": "Take out the trash",
       "day": "Tuesday",
       "reminder": false
     },
     {
-      "text": "Task 3",
+      "text": "Water the plants",
       "day": "Wednesday",
       "reminder": true,
       "id": 3
     },
     {
-      "text": "Task 4",
-      "day": "fsdf",
+      "text": "Meet with the boss",
+      "day": "Friday",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Do laundry",
+      "day": "Saturday",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
